@@ -14,15 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/onurkose/vue-spa-auth.git"
   },
-  "author": {
-    "name": "Onur Köse",
-    "url": "http://onurkose.com",
-    "username": "onurkose",
-    "email": "kose.onur@gmail.com"
-  },
+  "author": "Onur Köse <kose.onur@gmail.com> (http://onurkose.com)",
   "license": "MIT",
   "private": false,
   "dependencies": {
     "crypto-js": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/onurkose/vue-spa-auth/issues"
+  },
+  "homepage": "https://github.com/onurkose/vue-spa-auth#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
   }
 }
