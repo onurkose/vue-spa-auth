@@ -1,6 +1,6 @@
 {
   "name": "@onurkose/vue-spa-auth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue.js authentication package for The Authorization Code grant with \"Proof Key for Code Exchange\" (PKCE) flow.",
   "keywords": [
     "vue",
