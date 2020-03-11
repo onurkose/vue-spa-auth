@@ -1,0 +1,29 @@
+{
+  "name": "@onurkose/vue-spa-auth",
+  "version": "0.0.1",
+  "description": "Vue.js authentication package for The Authorization Code grant with \"Proof Key for Code Exchange\" (PKCE) flow.",
+  "keywords": [
+    "vue",
+    "vue.js",
+    "jwt",
+    "auth",
+    "authentication",
+    "plugin"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onurkose/vue-spa-auth"
+  },
+  "author": {
+    "name": "Onur Köse",
+    "url": "http://onurkose.com",
+    "username": "onurkose",
+    "email": "kose.onur@gmail.com"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
