@@ -5,13 +5,13 @@ Vue.js authentication package for The Authorization Code grant with "Proof Key f
 ## Installation
 
 ```
-yarn add @onurkose/vue-spa-auth
+$ yarn add @onurkose/vue-spa-auth
 ```
 
 or
 
 ```
-npm install @onurkose/vue-spa-auth
+$ npm install @onurkose/vue-spa-auth
 ```
 
 ## Configuration
