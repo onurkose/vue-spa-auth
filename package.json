@@ -13,7 +13,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/onurkose/vue-spa-auth"
+    "url": "git+https://github.com/onurkose/vue-spa-auth"
   },
   "author": {
     "name": "Onur Köse",
